@@ -1,0 +1,11 @@
+pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+nltk==3.8.1
+spacy==3.5.3
+vaderSentiment==3.3.2
+gensim==4.3.1
+scikit-learn==1.2.2
+
+# Needed for running in notebooks or exporting to script
+ipykernel==6.22.0
